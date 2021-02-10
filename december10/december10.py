@@ -1,7 +1,7 @@
 import numpy as np
 import itertools
 
-filename=r'Adventskalender\december10\december10.txt'
+filename=r'december10\december10.txt'
 numbers=[]
 preamble=25
 with open(filename) as f_in:
